@@ -35,7 +35,423 @@ img {
 
 /* General Styles */
 
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.logo {
+}
+
+.logo__link {
+}
+
+.logo__img {
+}
+
+.title {
+}
+
+.subtitle {
+}
+
+.title-mini {
+}
+
+.input-template {
+}
+
+.input-template__input {
+}
+
+.input-template__btn {
+}
+
+.input-template__btn-icon {
+}
+
+.get-started-link {
+}
 
 /* Header */
 
+.header {
+}
+
+.header__column {
+}
+
+.header__navigation {
+}
+
+.header__link-list {
+}
+
+.header__link-item {
+}
+
+.header__link {
+}
+.header__drop-down-link {
+}
+
+.header__auth-btn {
+}
+
+.header__get-started-btn {
+}
+
+/* Home */
+
+.home {
+}
+
+.home__column {
+}
+
+.home__img {
+}
+
+.home__title {
+}
+
+.home__subtitle {
+}
+
+.home__get-started-btn {
+}
+
+/* Sponsors */
+
+.sponsors {
+}
+
+.sponsors__title {
+}
+
+.sponsors__items {
+}
+
+.sponsors__item {
+}
+
+.sponsors__item-img {
+}
+
+/* Achivements */
+
+.achivements {
+}
+
+.achivements__header {
+}
+
+.achivements__title-mini {
+}
+
+.achivements__items {
+}
+
+.achivement {
+}
+
+.achivements__item {
+}
+
+.achivement__text-section {
+}
+
+.achivement__title {
+}
+
+.achivement__subtitle {
+}
+
+.achivement__img-section {
+}
+
+.achivement__img {
+}
+
+/* Actions */
+
+.actions {
+}
+
+.actions__items {
+}
+
+.action {
+}
+
+.actions__item {
+}
+
+.action__left-section {
+}
+
+.action__img-section {
+}
+
+.action__icon {
+}
+
+.action__text-section {
+}
+
+.action__title {
+}
+
+.action__subtitle {
+}
+
+.action__right-section {
+}
+
+.action__view-btn {
+}
+
+/* Statistic */
+
+.statistic {
+}
+
+.statistic__header {
+}
+
+.statistic__title {
+}
+
+.statistic__subtitle {
+}
+
+.statistic__get-started-link {
+}
+
+.statistic__items {
+}
+
+.statistic-item {
+}
+
+.statistic__item {
+}
+
+.statistic-item__title {
+}
+
+.statistic-item__list {
+}
+
+.statistic-item__list-item {
+}
+
+.statistic-item__img-section {
+}
+
+.statistic-item__img {
+}
+
+.actions-line {
+}
+
+.actions-line__items {
+}
+
+.actions-line__item {
+}
+
+/* Setup */
+
+.setup {
+}
+
+.setup__header {
+}
+
+.setup__header-left-section {
+}
+
+.setup__title {
+}
+
+.setup__subtitle {
+}
+
+.setup__header-right-section {
+}
+
+.setup__get-started-link {
+}
+
+.setup__items {
+}
+
+.setup-item {
+}
+
+.setup__item {
+}
+
+.setup-item__img-section {
+}
+
+.setup-item__img {
+}
+
+.setup-item__text-section {
+}
+
+.setup-item__number {
+}
+
+.setup-item__title {
+}
+
+.setup-item__subtitle {
+}
+
+/* Best */
+
+.best {
+}
+
+.best__header {
+}
+
+.best__title-mini {
+}
+
+.best__items {
+}
+
+.best-item {
+}
+
+.best__item {
+}
+
+.best-item__top--section {
+}
+
+.best-item__rate-img {
+}
+
+.best-item__comment {
+}
+
+.best-item__bottom--section {
+}
+
+.best-item__user {
+}
+
+.best-item__user-name {
+}
+
+.best-item__user-place {
+}
+
+.best-item__company {
+}
+
+.best-item__company-img {
+}
+
+.best-item__user-img {
+}
+
+.best-item__video {
+}
+
+/* Info */
+
+.info {
+}
+
+.info__header {
+}
+
+.info__title {
+}
+
+.info__items {
+}
+
+.info-item {
+}
+
+.info__item {
+}
+
+.info-item__open-section {
+}
+
+.info-item__title {
+}
+
+.info-item__toggle-btn {
+}
+
+.info-item__toggle-btn-icon {
+}
+
+.info-item__hidden-section {
+}
+
+.info-item__subtitle {
+}
+
+/* Footer */
+
+.footer {
+}
+
+.footer__row {
+}
+
+.footer__column {
+}
+
+.footer__form {
+}
+
+.footer__form-title {
+}
+
+.footer__info-link-list {
+}
+
+.footer__info-link-item {
+}
+
+.footer__info-title {
+}
+
+.footer__info-link {
+}
+
+.footer__privacy-link-list {
+}
+
+.footer__privacy-link-item {
+}
+
+.footer__privacy-link {
+}
+
+.footer__links-title {
+}
+
+.footer__links {
+}
+
+.footer__soc-link {
+}
+
+.footer__soc-link-icon {
+}
+
+.footer__copyright-text {
+}
